@@ -1,0 +1,54 @@
+* {
+	font-family: Verdana, sans-serif;
+}
+
+h1 {
+	font-size: 48px;
+	padding-top: 25px;
+	color: #666666;
+}
+
+h2 {
+	font-weight: bold;
+	color: #f07c17;
+	font-size: 24px;
+	margin-bottom: 32px;
+}
+
+li {
+	color: #666;
+	font-size: 16px;
+	line-height: 200%;
+	margin-left: 31px;
+}
+
+p {
+	color: #666;
+	font-size: 16px;
+	line-height: 205%;
+}
+
+.mug {
+	width: 374px;
+	margin: 22px 0 10px 0;
+}
+
+/* set position and width of main content */
+.good {
+	margin-left: 81px;
+	width: 565px;
+}
+
+/* set color/size of the outline around the main features */
+.features {
+	outline: 1px solid #ccc;
+	width: 374px;
+	height: 222px;
+}
+
+/* set line height and margins for text within the features box */
+.main-features {
+	line-height: 360%;
+	margin-bottom: 0px;
+	padding-left:31px;
+}
